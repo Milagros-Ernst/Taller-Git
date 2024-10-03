@@ -11,5 +11,10 @@ namespace Taller_Git
         {
             MessageBox.Show("Hola Mundo");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola Mundo 2");
+        }
     }
 }
