@@ -6,5 +6,10 @@ namespace Taller_Git
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola Mundo");
+        }
     }
 }
